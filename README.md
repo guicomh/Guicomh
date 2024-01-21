@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 👋
 
-<!--
-**guicomh/Guicomh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Meu nome é Guilherme e sou Engenheiro de Software. Tenho paixão por Desenvolvimento Web e Cyber Segurança e estou sempre buscando aprender coisas novas.
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens de Programação: [Python, C, Html, Css, Javascript, PHP]
+- Tecnologias: [Linux, ferramentas de Pentest, frameworks]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide=contribs,prs&theme=radical)
+
+## Contato
+- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/guicomh/)
+- Twitter: [@SeuTwitter](https://twitter.com/guicomh)
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Obrigado por visitar meu perfil! 😊
