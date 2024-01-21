@@ -11,7 +11,7 @@ Meu nome é Guilherme e sou Engenheiro de Software. Tenho paixão por Desenvolvi
 
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guicomh_icons=true&hide=contribs,prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guicomh&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## Linguagens Mais Usadas
 ![Estatísticas das Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guicomh&layout=compact&theme=radical)
