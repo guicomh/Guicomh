@@ -11,6 +11,7 @@ Meu nome é Guilherme, estou cursando engenheira de software.
 ##
 
 <div> 
+   <a href="https://github.com/guicomh">
    <img align="center" alt="Gui-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
    <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
    <img align="center" alt="Gui-perl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-original.svg">
